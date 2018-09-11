@@ -2,7 +2,7 @@
 
 This is a guid for who want to lunch OpenFrameworks on ios. 
 
-If you find any problem please send me a [email](escapeanaemia@gmail.com).
+If you find any problem please send me a email(escapeanaemia@gmail.com).
 
 ## Working Enviroment
 
@@ -44,7 +44,7 @@ download openFrameworks for **xcode**
 ## Start Project
 you can start your project by using 'projectGenerator'. But it's not work well.. 
 
-So I find other way to get start your project
+So I found other way to get start your project
 
 you can find 'emptyExample' folder
 
