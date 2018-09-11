@@ -41,6 +41,11 @@ donwload **openFrameworks** in [here](https://openframeworks.cc/download/).
 
 download openFrameworks for **xcode**
 
+## Start Project
+you can start your project by using 'projectGenerator'. But it's not work well.. 
+
+So I find other way to get start your project
+
 you can find 'emptyExample' folder
 
 ```
